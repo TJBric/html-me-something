@@ -1,0 +1,38 @@
+article{
+
+	background-color: green;
+}
+
+header{
+
+	text-align: center;
+	font-size: 30px;
+	color: orange;
+}
+
+p{
+
+	text-align: center;
+	color: white;
+	font-size: 18px;
+}
+
+img{
+	width: 375px;
+}
+
+ol{
+
+	color: white;
+	font-size: 21px;
+
+}
+
+.beginning{
+
+	background-color: orange;
+}
+
+#end{
+	background-color: orange;
+}
