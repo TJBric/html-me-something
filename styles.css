@@ -1,20 +1,21 @@
 article{
-
 	background-color: green;
 }
 
 header{
-
 	text-align: center;
 	font-size: 30px;
 	color: orange;
 }
 
 p{
-
 	text-align: center;
 	color: white;
 	font-size: 18px;
+}
+
+footer{
+	text-align: center;
 }
 
 img{
@@ -25,11 +26,9 @@ ol{
 
 	color: white;
 	font-size: 21px;
-
 }
 
 .beginning{
-
 	background-color: orange;
 }
 
